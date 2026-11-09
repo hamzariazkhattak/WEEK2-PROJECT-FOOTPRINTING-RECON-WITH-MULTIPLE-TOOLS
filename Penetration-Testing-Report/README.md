@@ -90,7 +90,7 @@ Domain registration information can help security professionals understand domai
 
 **Evidence:**
 
-`[Attach Screenshot – E01: WHOIS Domain Information]`
+`[tool-whois-perform.png]`
 
 ### Task 02 – WhatWeb Website Technology Fingerprinting
 
@@ -118,7 +118,7 @@ Technology fingerprinting helps security professionals understand the software e
 
 **Evidence:**
 
-`[Attach Screenshot – E02: WhatWeb Technology Detection]`
+`[tool-whatweb-perform.png]`
 
 ### Task 03 – Nslookup DNS Resolution
 
@@ -146,7 +146,7 @@ DNS resolution helps security professionals understand how domain names are asso
 
 **Evidence:**
 
-`[Attach Screenshot – E03: Nslookup DNS Resolution]`
+`[tool-nslookup-perform.png]`
 
 ### Task 04 – cURL HTTP Response Header Analysis
 
@@ -174,7 +174,7 @@ HTTP response headers can reveal technical information about web servers, applic
 
 **Evidence:**
 
-`[Attach Screenshot – E04: cURL HTTP Header Analysis]`
+`[tool-curl-perform.png]`
 
 ### Task 05 – WAFW00F Web Application Firewall Detection
 
@@ -202,7 +202,7 @@ Identifying a WAF helps security professionals understand the web application's 
 
 **Evidence:**
 
-`[Attach Screenshot – E05: WAFW00F Detection]`
+`[tool-WAF-perform.png]`
 
 ### Task 06 – DNSRecon DNS Enumeration
 
@@ -239,7 +239,7 @@ DNS enumeration helps security professionals understand an organization's public
 
 **Evidence:**
 
-`[Attach Screenshot – E06: DNSRecon Enumeration]`
+`[tool-dns-recon-perform.png]`
 
 ## 4.2 Summary of Activities
 
@@ -337,27 +337,27 @@ All evidence will be reviewed before publication to ensure that sensitive inform
 
 ### Evidence 01 – WHOIS
 
-`[Insert Screenshot: WHOIS Output]`
+`[tool-whois-perform.png]`
 
 ### Evidence 02 – WhatWeb
 
-`[Insert Screenshot: WhatWeb Output]`
+`[tool-whatweb-perform.png]`
 
 ### Evidence 03 – Nslookup
 
-`[Insert Screenshot: Nslookup Output – Sensitive IP Information Redacted]`
+`[tool-nslookup-perform.png]`
 
 ### Evidence 04 – cURL
 
-`[Insert Screenshot: HTTP Response Headers]`
+`[tool-curl-perform.png]`
 
 ### Evidence 05 – WAFW00F
 
-`[Insert Screenshot: WAF Detection Output]`
+`[tool-WAF-perform.png]`
 
 ### Evidence 06 – DNSRecon
 
-`[Insert Screenshot: DNS Enumeration Output]`
+`[tool-dns-recon-perform.png]`
 
 ---
 
