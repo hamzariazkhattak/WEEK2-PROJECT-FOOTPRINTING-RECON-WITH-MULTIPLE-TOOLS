@@ -337,7 +337,7 @@ All evidence will be reviewed before publication to ensure that sensitive inform
 
 ### Evidence 01 – WHOIS
 
-`[WHOIS](Screenshot-evidence/tool-whois-perform.png)`
+`[Screenshot-evidence/tool-whois-perform.png]`
 
 ### Evidence 02 – WhatWeb
 
