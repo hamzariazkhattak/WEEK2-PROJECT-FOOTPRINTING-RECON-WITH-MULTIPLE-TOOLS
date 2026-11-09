@@ -337,28 +337,23 @@ All evidence will be reviewed before publication to ensure that sensitive inform
 
 ### Evidence 01 – WHOIS
 
-![screenshots/tool-whois-perform.png]
+### 1. WHOIS - Domain Information
+![WHOIS Screenshot](screenshots/01-whois.png)
 
-### Evidence 02 – WhatWeb
+### 2. WhatWeb - Technology Detection
+![WhatWeb Screenshot](screenshots/02-whatweb.png)
 
-`[tool-whatweb-perform.png]`
+### 3. Nslookup - DNS Lookup
+![Nslookup Screenshot](screenshots/03-nslookup.png)
 
-### Evidence 03 – Nslookup
+### 4. cURL - HTTP Header Analysis
+![cURL Screenshot](screenshots/04-curl.png)
 
-`[tool-nslookup-perform.png]`
+### 5. WAFW00F - Web Application Firewall Detection
+![WAFW00F Screenshot](screenshots/05-wafw00f.png)
 
-### Evidence 04 – cURL
-
-`[tool-curl-perform.png]`
-
-### Evidence 05 – WAFW00F
-
-`[tool-WAF-perform.png]`
-
-### Evidence 06 – DNSRecon
-
-`[tool-dns-recon-perform.png]`
-
+### 6. DNSRecon - DNS Enumeration
+![DNSRecon Screenshot](screenshots/06-dnsrecon.png)
 ---
 
 # TESTER INFORMATION
