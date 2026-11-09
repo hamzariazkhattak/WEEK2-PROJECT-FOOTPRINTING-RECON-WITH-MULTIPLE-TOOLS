@@ -337,17 +337,17 @@ All evidence will be reviewed before publication to ensure that sensitive inform
 
 
 
-![cURL](../screenshots/tool-curl-perform.png)
+![cURL](./screenshots/tool-curl-perform.png)
 
-![DNS Recon](../screenshots/tool-dns-recon-perform.png)
+![DNS Recon](./screenshots/tool-dns-recon-perform.png)
 
-![NSLookup](../screenshots/tool-nslookup-perform.png)
+![NSLookup](./screenshots/tool-nslookup-perform.png)
 
-![WAF](../screenshots/tool-WAF-perform.png)
+![WAF](./screenshots/tool-WAF-perform.png)
 
-![WhatWeb](../screenshots/tool-whatweb-perform.png)
+![WhatWeb](./screenshots/tool-whatweb-perform.png)
 
-![WHOIS](../screenshots/tool-whois-perform.png)
+![WHOIS](./screenshots/tool-whois-perform.png)
 
 ---
 
