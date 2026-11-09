@@ -337,22 +337,22 @@ All evidence will be reviewed before publication to ensure that sensitive inform
 
 
 ### Evidence 01 – cURL
-![cURL](./screenshots/tool-curl-perform.png)
+![cURL](screenshots/tool-curl-perform.png)
 
 ### Evidence 02 – DNS Recon
-![DNS Recon](./screenshots/tool-dns-recon-perform.png)
+![DNS Recon](screenshots/tool-dns-recon-perform.png)
 
 ### Evidence 03 – NSLookup
-![NSLookup](./screenshots/tool-nslookup-perform.png)
+![NSLookup](screenshots/tool-nslookup-perform.png)
 
 ### Evidence 04 – WAF Detection
-![WAF](./screenshots/tool-WAF-perform.png)
+![WAF](screenshots/tool-WAF-perform.png)
 
 ### Evidence 05 – WhatWeb
-![WhatWeb](./screenshots/tool-whatweb-perform.png)
+![WhatWeb](screenshots/tool-whatweb-perform.png)
 
 ### Evidence 06 – WHOIS
-![WHOIS](./screenshots/tool-whois-perform.png)
+![WHOIS](screenshots/tool-whois-perform.png)
 
 ---
 
